@@ -1,0 +1,37 @@
+{
+  "name": "default",
+  "description": "內建預設：深藍封面／章節頁 + 白底內容頁，橘色點綴，微軟正黑體",
+  "fonts": {
+    "heading": "Arial",
+    "body": "Arial",
+    "ea": "Microsoft JhengHei",
+    "code": "Consolas"
+  },
+  "colors": {
+    "title": "1F2A44",
+    "text": "2B2F36",
+    "muted": "6B7280",
+    "accent": "C2410C",
+    "title_on_dark": "FFFFFF",
+    "text_on_dark": "E5E7EB",
+    "muted_on_dark": "CBD5E1",
+    "accent_on_dark": "FDBA74",
+    "code_bg": "F3F4F6",
+    "code_text": "1F2937"
+  },
+  "backgrounds": {
+    "cover": "1F2A44",
+    "section": "1F2A44",
+    "closing": "1F2A44",
+    "content": "FFFFFF"
+  },
+  "sizes": {
+    "title": 32,
+    "cover_title": 44,
+    "subtitle": 20,
+    "body_max": 24,
+    "body_min": 14
+  },
+  "title_align": "left",
+  "title_bold": true
+}

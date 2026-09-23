@@ -1,0 +1,35 @@
+{
+  "name": "blockframe",
+  "engine": "canvas",
+  "description": "HyperFrames BlockFrame：新粗野主義。黑色粗邊框 + 零模糊硬陰影 + 五色糖果色塊，直角、傾斜裝飾、星爆、斜紋塊",
+  "source": "~/.claude/skills/hyperframes-creative/frame-presets/blockframe/FRAME.md",
+  "colors": {
+    "black": "000000",
+    "white": "FFFFFF",
+    "ground": "FFFDF5",
+    "text": "111111",
+    "muted": "7A7A7A",
+    "palette": ["FE90E8", "C0F7FE", "99E885", "F7CB46", "FFDC8B"],
+    "chapter_cycle": ["99E885", "C0F7FE", "FE90E8", "F7CB46", "FFDC8B"]
+  },
+  "fonts": {
+    "display": "Arial Black",
+    "label": "Bahnschrift",
+    "body": "Arial",
+    "ea": "Microsoft JhengHei",
+    "code": "Consolas"
+  },
+  "stroke": {
+    "border": 2.25,
+    "shadow": 5,
+    "thin": 1.5,
+    "thin_shadow": 3
+  },
+  "sizes": {
+    "title": 28,
+    "subtitle": 16,
+    "body_max": 20,
+    "body_min": 12,
+    "split_below": 14
+  }
+}
